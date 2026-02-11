@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or models, please cite the following paper."
+title: "CEDHE-GAN for Echocardiogram Enhancement and Rheumatic Heart Disease Identification"
+type: software
+version: 1.0.0
+date-released: 2025-02-11
+
+authors:
+  - family-names: Desh
+    given-names: Jaga
+    affiliation: "Kuvempu University Shivamogga Karnataka, India"
+    email: your-jagaenator@gmail.com
+
+repository-code: "https://github.com/jagaenator/CEDHE-GAN-RHD"
+
+keywords:
+  - Echocardiography
+  - Rheumatic Heart Disease
+  - Image Enhancement
+  - U-Net Segmentation
+  - Deep Learning
+  - Medical Image Analysis
+
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "CEDHE-GAN: Contrast Enhanced Dynamic Histogram Equalization with GAN for Echocardiogram Enhancement and RHD Identification"
+  authors:
+    - family-names: Desh
+      given-names: Jaga
+  journal: "MDPI"
+  year: 2025
