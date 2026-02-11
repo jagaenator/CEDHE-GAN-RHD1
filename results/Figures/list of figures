@@ -1,0 +1,15 @@
+Figure 1. Workflow of Proposed Method.
+Figure 2. Plot for accuracy vs validation accuracy.
+Figure 3. Plot for loss vs validation loss.
+Figure 4. Plot for multiclass dice vs validation multiclass dice.
+Figure 5. Plot Training vs Validation Accuracy-Camus.
+Figure 6. Plot Training vs Validation Accuracy-PROVAR.
+Figure 7. Plot Training vs Validation Accuracy-Martins.
+Figure 8. Plot Training vs Validation Accuracy-Current Dataset.
+Figure 9. Plot Training vs Validation Accuracy for all considered datasets.
+Figure 10. Visualisation of Final Segmented Output Image.
+Figure 11. Visualisation of Training and Validation Accuracy.
+Figure 12. Confusion Matrix.
+Figure 13: Dice coefficient variation under increasing noise intensity for Gaussian, speckle, and salt-and-pepper noise.
+Figure 14: Classification accuracy of the proposed model under varying noise intensi-ties.
+Figure 15: Qualitative Segmentation under Noise has been generated successfully
